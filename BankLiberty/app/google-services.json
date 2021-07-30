@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632596773555",
+    "project_id": "bankliberty-f1ced",
+    "storage_bucket": "bankliberty-f1ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632596773555:android:1742f600f295a91551cec6",
+        "android_client_info": {
+          "package_name": "com.example.bankliberty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632596773555-qn7e0p2d35co9sr5a6hq07af5ckd2qcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9CO4ctjJDrPM_kEhW3If4mSRKrB8dXhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632596773555-qn7e0p2d35co9sr5a6hq07af5ckd2qcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
